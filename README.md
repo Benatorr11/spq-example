@@ -48,3 +48,5 @@ Si el servidor ha sido iniciado correctamente se pueden obtener los datos de pru
 La aplicación cliente puede iniciarse usando el comando
 
     mvn -Pcliente exec:java
+**CODECOV**
+[![codecov](https://codecov.io/gh/Benatorr11/spq-example/branch/main/graph/badge.svg)](https://codecov.io/gh/Benatorr11/spq-example)
